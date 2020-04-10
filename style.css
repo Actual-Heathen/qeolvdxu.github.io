@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<style>
+body {
+	background-color: ##282a36;
+	color: #f8f8f2;
+} 
+
+
+div.index {
+	word-wrap: break-word;
+	width: 170px;
+}
+
+div.verticalLine {
+  border-left: 2px solid black;
+  height: 500px;
+  left: 180px;
+  position: absolute;
+}
+</style>
