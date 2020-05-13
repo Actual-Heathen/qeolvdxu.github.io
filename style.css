@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <style>
-
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+div.box {
+  outline: 2px solid green;
 }
-
+div.a {
+  width: 40%;
+  height: 40%;
+  padding: 1%;
+  outline: 2px solid #6272a4;
+  margin: 0;
+  background-color: #44475a;
+}
+div.b {
+	line-height: 0.5;
+}
 </style>
 
 
