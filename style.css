@@ -1,44 +1,12 @@
 <!DOCTYPE html>
 <style>
-body {
-  font-family: sans-serif;
-  color: blue;
-  background-color: green;
-  font-size: 16px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
-
-div.verticalLine {
-  margin-bottom: 200px;
-  border-left: 2px solid black;
-  height: 500px;
-  left: 180px;
-  position: absolute;
-}
-
-
-.wrapper {
-    width:600px;
-    margin: 0 auto;
-}
-
-#block1 {
-    float:left;
-}
-
-#block2
-{
-    float:right;
-    background-color: #F5F5F5;
-    margin: 10px 20px;
-    padding: 20px;
-    width: 180px;
-}
-
-.boxed {
-  border: 1px solid green ;
-} 
 
 </style>
 
