@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <style>
 body {
-	background-color: ##282a36;
-	color: #f8f8f2;
-} 
+  font-family: sans-serif;
+  color: ##44475a;
+  background: #f8f8f2;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
 div.verticalLine {
   margin-bottom: 200px;
@@ -31,6 +35,10 @@ div.verticalLine {
     padding: 20px;
     width: 180px;
 }
+
+.boxed {
+  border: 1px solid green ;
+} 
 
 </style>
 
