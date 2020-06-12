@@ -1,32 +1,28 @@
 <!DOCTYPE html>
 <style>
-div.box {
-  outline: 2px solid green;
-}
-div.a {
-  text-align: center;
-  width: 40%;
-  height: 40%;
-  padding: 1%;
-  outline: 2px solid #6272a4;
-  margin: 0;
-  margin-right: 40%;
-  background-color: #44475a;
-  float: left;
-}
-div.b {
-	width: 15%;
+
+div.name {
 	text-align: center;
-	height:40%;
-	padding:1%;
-	outline: 2px solid #6272a4;
-	margin: 1%;
-	background-color: #44475a;
-	overflow: hidden;
 }
-a:link {
-	color: #8be9fd;
-	text-decoration: none;
+div.descriptions {
+	text-align: center;
+}
+div.links {
+	text-align: center;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
 }
 
 </style>
