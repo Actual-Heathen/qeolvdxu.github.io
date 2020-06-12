@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<style>
-
 div.name {
-	text-align: center;
+text-align: center;
+font-size: 80px;
 }
 div.descriptions {
-	text-align: center;
+text-align: center;
+font-size: 45px;
 }
 div.links {
 	text-align: center;
@@ -24,7 +23,3 @@ body {
     display: table-cell;
     vertical-align: middle;
 }
-
-</style>
-
-
