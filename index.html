@@ -1,22 +1,111 @@
 <!DOCTYPE html>
 <html>
-
-<title>Hayden Estes</title>	
-
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" href="pictures/favicon.ico"/>
 <link href="style.css" rel="stylesheet" type="text/css" media="all">
+
+<style>
+body 
+{
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  background-color: black;
+  color: #f2f2f2;
+  text-align: center;
+}
+
+.sidenav 
+{
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 1;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a 
+{
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover 
+{
+  color: #f1f1f1;
+}
+
+.main 
+{
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) 
+{
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+    /* Add a black background color to the top navigation */
+.topnav 
+{
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a 
+{
+  float: left;
+  color: #bc13fe;
+  text-align: center;
+  padding: 15px 27px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover 
+{
+  background-color: #ddd3;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active 
+{
+  background-color: #4CAF5;
+}
+</style>
+
 </head>
+<body>
+    
 
-<body BGCOLOR="#282a36" TEXT="#f8f8f2">
-			<div class="name">
-				Hayden Estes
-			</div>
+ <div class="topnav">
+  <a class="active" href="#">Qeolvdxu</a>
 
-			<div class="descriptions">
-				UAH Student
-			</div>
-			
+</div> 
+    
+    
+    
+<div class="sidenav">
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+  <a href="#papers">Papers</a>
+   <a href="#contact">Contact</a>
+</div>
+
+<div class="main">
+<h2>Contact</h2>
 			<div class="links">
 				<a href="mailto:hve0002@uah.edu" target="_blank"><img src="pictures/mail.png" alt="email" width="5%" height="5%"></a>
 				<a href="https://github.com/Qeolvdxu"target="_blank"><img src="pictures/github.png" alt="github" width="5%" height="5%"></a>
@@ -24,6 +113,7 @@
 				<a href="https://www.researchgate.net/profile/Hayden_Estes" target="_blank"><img src="pictures/researchgate.png" alt="researchgate" width="5%" height="5%"></a>
 			</div>
 </body>  
-
-
-</html>
+</div>
+   
+</body>
+</html> 
