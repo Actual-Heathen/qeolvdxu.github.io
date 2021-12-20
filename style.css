@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+h1 {
+font-family: Impact, sans-serif;
+color: #ff79c6;
+}
+
+p {
+    line-height: 2;
+    text-indent: 5%;
+    margin: 1% 5% 1% 5%;
+}
+
+body {
+    font-family: Impact, sans-serif;
+    padding: 0;
+    color: #f8f8f2;
+    background: #282a36;
+    margin: 5% 5% 5% 5%;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color: #8be9fd;
+}
+a:visited {
+    color: #bd94f9;
+}
+a:hover {
+    color: #bd94d0;
+}
+a:active {
+    color: #bd94a0;
+}
