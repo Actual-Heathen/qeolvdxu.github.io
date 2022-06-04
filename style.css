@@ -2,9 +2,9 @@
 <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
 h1 {
-        font-family: 'Manrope', sans-serif;
-        font-size: 40px;
-        color: #ff79c6;
+        font-family: 'Manrope', sans-serif !important;
+        font-size: 40px !important;
+        color: #ff79c6 !important;
 }
 
 p {
