@@ -1,6 +1,12 @@
 @charset "UTF-8";
 <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
+h2 {
+        font-family: 'Manrope', sans-serif;
+        font-size: 30px;
+        color: green;
+}
+
 h1 {
         font-family: 'Manrope', sans-serif !important;
         font-size: 40px !important;
