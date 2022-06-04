@@ -1,7 +1,9 @@
 @charset "UTF-8";
+<link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
 
 h1 {
 font-family: Impact, sans-serif;
+        font-size: 40px;
 color: #ff79c6;
 }
 
@@ -12,7 +14,8 @@ p {
 }
 
 body {
-    font-family: Impact, sans-serif;
+    font-family: 'Manrope';
+    font-size: 22px;
     padding: 0;
     color: #f8f8f2;
     background: #282a36;
