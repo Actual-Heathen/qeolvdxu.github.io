@@ -7,6 +7,10 @@ h2 {
         color: green;
 }
 
+element {
+       background: #282a36;
+}
+
 h1 {
         font-family: 'Manrope', sans-serif !important;
         font-size: 40px !important;
@@ -23,7 +27,7 @@ p {
 body {
     border-style: inset;
     padding: 0;
-    background: #282a36;
+    background: #44475a;
     margin: 2% 20% 2% 20%;
 }
 
