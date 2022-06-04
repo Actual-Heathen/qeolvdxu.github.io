@@ -1,14 +1,14 @@
 @charset "UTF-8";
+<link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
-
 h1 {
-        font-family: Impact, sans-serif;
+        font-family: 'Manrope', sans-serif;
         font-size: 40px;
         color: #ff79c6;
 }
 
 p {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Inconsolata', sans-serif;
     font-size: 22px;
     line-height: 2;
     color: #f8f8f2;
