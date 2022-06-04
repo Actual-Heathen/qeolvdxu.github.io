@@ -8,18 +8,17 @@ color: #ff79c6;
 }
 
 p {
+    font-family: 'Manrope';
+    font-size: 22px;
     line-height: 2;
     color: #f8f8f2;
     text-indent: 5%;
-    margin: 1% 5% 1% 5%;
 }
 
 body {
-    font-family: 'Manrope';
-    font-size: 22px;
     padding: 0;
     background: #282a36;
-    margin: 2% 2% 2% 2%;
+    margin: 5% 5% 5% 5%;
 }
 
 a {
