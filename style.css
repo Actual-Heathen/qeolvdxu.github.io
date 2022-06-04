@@ -21,6 +21,7 @@ p {
 }
 
 body {
+    border-style: inset;
     padding: 0;
     background: #282a36;
     margin: 5% 5% 5% 5%;
