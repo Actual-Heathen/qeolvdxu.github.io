@@ -2,10 +2,24 @@
 <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Manrope' rel='stylesheet'>
 h2 {
-        font-family: 'Manrope', sans-serif;
-        font-size: 30px;
-        color: green;
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+    color: green;
 }
+
+
+.container {width:960px;
+	    margin:0 auto;
+	   padding:10px 25px;
+	   border:1px solid #6272a4;
+	   background:#282a36;
+	   }
+h2 {
+    font-family: 'Manrope', sans-serif;
+    font-size: 30px;
+    color: green;
+}
+
 
 h1 {
         font-family: 'Manrope', sans-serif !important;
@@ -19,14 +33,9 @@ p {
     line-height: 2;
     color: #f8f8f2;
 }
-
 body {
-    border-style: inset;
-    padding: 0;
-    background: #282a36;
-    margin: 2% 20% 2% 20%;
+    background : black;
 }
-
 a {
     text-decoration: none;
 }
