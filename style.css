@@ -6,7 +6,8 @@ h2 {
     font-size: 30px;
     color: green;
 }
-.container {width:98%;
+.container {width:94%;
+	    padding: 2% 2% 2% 2%;
 	    margin:0 0;
 	    border:5px solid #6272a4;
 	    border-style: inset;
