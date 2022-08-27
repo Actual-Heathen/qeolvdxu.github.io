@@ -8,7 +8,7 @@ h2 {
 }
 .container {
 	    max-width:94%;
-	    padding: 1% 2% 1% 2%;
+	    padding: 0% 16px 0% 16px;
 	    margin:0 auto;
 	    border:5px solid #6272a4;
 	    border-style: inset;
